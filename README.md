@@ -31,7 +31,7 @@ The result reveals a contrast between customer complaints and the decision to ch
 The result above reveals that high cashback segment shows a significantly higher initial churn risk (67.7%) in the first month compared to standard cashback group (51.5%). This confirms the financial rewards primarily attract promo hunters where they use the big cashback during initial usage and exit immediately. Once the customer survive the first 6 months, the impact of cashback amount diminishes as the primary driver shift to organic. The most significant milestone occurs at the 24 month where churn risk for both groups hits 0% which might indicate absolute retention This users who remain past the 2 years transform into a permanent user and tenure effectively eliminates the risk of churn.
 
 ### Feature Correlation
-![Feature Correlation](feature corr.png)
+![Feature Correlation](feature-corr.png)
 
 The feature correlation provides a view of which drivers behind customer churn. From the result, Tenure is the strongest individual predictor with a negative correlation of -0.34, which confirms that the longer a customer stays, the less likely they are to churn. On the other hand, Complain exhibits the strongest positive correlation with churn at 0.25 which confirms it as a primary red flag for immediate customer exit. Other negative correlations like DaySinceLastOrder (-0.16) and CashbackAmount (-0.15) suggests that recent engagement and financial incentives play a meaninfgul roles in retention also.
 
